@@ -1,0 +1,18 @@
+{
+    "name": "microbit-tutorials",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*","radio": "*","audio-recording": "*"
+    },
+    "files": [
+        "main.blocks","niveau_bulle.md","main.ts","README.md","thermometre.md","battement.md","secouer.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
